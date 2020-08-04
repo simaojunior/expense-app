@@ -1,0 +1,5 @@
+{
+  "database": {
+    "mongoUrl": "mongodb+srv://kryptontech:expenseapp@cluster0-e5xgg.mongodb.net/expenseappdb?retryWrites=true&w=majority"
+  }
+}
