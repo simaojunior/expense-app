@@ -11,6 +11,8 @@
     "mongoose": "^5.9.27"
   },
   "devDependencies": {
+    "@types/koa": "^2.11.3",
+    "@types/mongoose": "^5.7.34",
     "@typescript-eslint/eslint-plugin": "^3.7.1",
     "@typescript-eslint/parser": "^3.7.1",
     "eslint": "^7.5.0",
