@@ -22,7 +22,6 @@ const Schema = new mongoose.Schema({
 export interface ITransaction extends Document {
   name: string;
   value: Number;
-  id: Types.ObjectId;
   createdAt: Date;
   updatedAt: Date;
 }
