@@ -13,9 +13,6 @@ const Schema = new mongoose.Schema({
     required: true,
     index: true,
   },
-  id: {
-    type: ObjectId,
-  },
   timestamps: {
     createdAt: "created_at",
     updatedAt: "updated_at",
